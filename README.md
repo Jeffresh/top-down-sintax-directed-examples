@@ -1,4 +1,4 @@
-:# Top down sintax directed examples
+# Top down sintax directed examples
 Design of translation scheme examples and implementation using SLY 
 
 ## Functional expression notation

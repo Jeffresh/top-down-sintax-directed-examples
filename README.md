@@ -1,4 +1,4 @@
-# Top down sintax directed examples
+:# Top down sintax directed examples
 Design of translation scheme examples and implementation using SLY 
 
 ## Functional expression notation
@@ -33,4 +33,4 @@ Offset de a = 4 + sizeof(char) + sizeof(float)
 ```
 
 ### Implementation
-[Functional expresion notebook](.\src\functional_expressions_top_down.ipynb)
+[Functional expresion notebook](./src/functional_expressions_top_down.ipynb)

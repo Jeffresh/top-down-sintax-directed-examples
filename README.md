@@ -33,4 +33,4 @@ Offset de a = 4 + sizeof(char) + sizeof(float)
 ```
 
 ### Implementation
-[Functional expresion notebook](.\src\functional_expressions.ipynb)
+[Functional expresion notebook](.\src\functional_expressions_top_down.ipynb)

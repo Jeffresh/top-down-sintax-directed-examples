@@ -9,7 +9,7 @@ a top down analyzer:
 ### Grammar:
 
 ```
-Def -> ID Tipo Resto
+Def -> Tipo ID Resto
 Resto -> ‘,’ Tipo ID Resto
 Resto -> epsilon
 Tipo -> INT
